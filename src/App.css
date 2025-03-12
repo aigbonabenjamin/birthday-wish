@@ -1,0 +1,65 @@
+/* Reset Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+/* Background with a gradient */
+body {
+  background: linear-gradient(135deg, #2c3e50, #4ca1af);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Centered container */
+.container {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 30px;
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Title styling */
+.title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Message styling */
+.message {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+/* Button styling */
+.btn {
+  background: #f1c40f;
+  color: #2c3e50;
+  border: none;
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background: #f39c12;
+}
+
+/* Note styling */
+.note {
+  font-size: 1.1rem;
+  font-style: italic;
+  margin-top: 15px;
+  opacity: 0.9;
+}
