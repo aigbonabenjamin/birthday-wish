@@ -48,7 +48,7 @@ export default function BirthdayWish() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          happy borthday pamilerin wish you long life and prosperity 
+          happy birthday pamilerin wish you long life and prosperity 🎈
         
         </motion.p>
       )}
