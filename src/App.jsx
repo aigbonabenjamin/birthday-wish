@@ -48,12 +48,8 @@ export default function BirthdayWish() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          while you are listening to my strrings...heres a little somthing i cooked up for you..
-          I thank God for the day i met you, you have been a blessing pamilerin you taught me discipline,
-          how not to wear shorts to church, how to love and a alot more. Even if our frendship grew from you being
-          the girl that hugged and i felt the most comfort from to you know.. me messing up a few times i believe life 
-          is in seasons and in every season we shall celecbrate only many more years ahead woman of God more annoionting 
-          and more grace our Doctor in the making Happy birthday once again to a beautiful girl named pamilerin  💞🎈
+          happy borthday pamilerin wish you long life and prosperity 
+        
         </motion.p>
       )}
     </div>
