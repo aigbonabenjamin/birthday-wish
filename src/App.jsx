@@ -7,7 +7,7 @@ export default function BirthdayWish() {
   const [showNote, setShowNote] = useState(false);
 
   const handlePlayMusic = () => {
-    const audio = new Audio("happy-birthday.mp3");
+    const audio = new Audio("Happy-Happy-Birthday.mp3");
     audio.play();
     setPlay(true);
 
@@ -23,7 +23,7 @@ export default function BirthdayWish() {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 1 }}
       >
-        🎉 Happy Birthday pamilerin ! 🎂
+        🎉 Happy Birthday Rejoice :) ! 🎂
       </motion.h1>
 
       <motion.p
@@ -32,7 +32,8 @@ export default function BirthdayWish() {
         animate={{ opacity: 1 }}
         transition={{ delay: 1, duration: 1 }}
       >
-        Wishing you a day filled with love and joy may God bless this new age...it's your special day!!
+        Wishing you a day filled with love and joy may God bless this new age may The lord continue to increase you may he cause his face
+        to shine upon you and give you peace and may the favour of God locate you...it's your special day!!
       </motion.p>
 
       {/* Button to Play Music */}
@@ -48,7 +49,7 @@ export default function BirthdayWish() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          happy birthday pamilerin wish you long life and prosperity 🎈
+          Silver and Gold have i not but what i have i give to you...happy birthday Rejoice 🎈
         
         </motion.p>
       )}
