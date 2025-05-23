@@ -32,8 +32,8 @@ export default function BirthdayWish() {
         animate={{ opacity: 1 }}
         transition={{ delay: 1, duration: 1 }}
       >
-        Wishing you a day filled with love and joy may God bless this new age may The lord continue to increase you may he cause his face
-        to shine upon you and give you peace and may the favour of God locate you...it's your special day!!
+        Wishing you a day filled with love and joy may God bless this new age of yours, may he continue to increase you may he cause his face
+        to shine upon you and give you peace and may the favour of God locate you Amen.
       </motion.p>
 
       {/* Button to Play Music */}
