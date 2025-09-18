@@ -23,7 +23,7 @@ export default function BirthdayWish() {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 1 }}
       >
-        🎉 Happy Birthday Rejoice :) ! 🎂
+        🎉 Happy Birthday Nnenna :) ! 🎂
       </motion.h1>
 
       <motion.p
@@ -32,8 +32,8 @@ export default function BirthdayWish() {
         animate={{ opacity: 1 }}
         transition={{ delay: 1, duration: 1 }}
       >
-        Wishing you a day filled with love and joy may God bless this new age of yours, may he continue to increase you may he cause his face
-        to shine upon you and give you peace and may the favour of God locate you Amen.
+        Wishing you a day filled with love and joy, i'm really sorry i forgot your birthday😅 but i just want you to know you mean a lot to me and 
+        you deserve the best this world has to offer❤️❤️✨.
       </motion.p>
 
       {/* Button to Play Music */}
@@ -49,7 +49,7 @@ export default function BirthdayWish() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          Silver and Gold have i not but what i have i give to you...happy birthday Rejoice 🎈
+          Silver and Gold have i not but what i have i give to you...happy birthday Nnenna🎈
         
         </motion.p>
       )}
